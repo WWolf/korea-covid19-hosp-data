@@ -581,14 +581,14 @@ Date,Source URL,Country,Source label,Hospitalizations with moderate to severe sy
 2021-10-28,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),345,NA
 2021-10-29,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),331,NA
 2021-10-30,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),339,NA
-2021-10-31,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),332,NA
+2021-10-31,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717406&cg_code=&act=view&nPage=23,South Korea,Korea DCA,332,448
 2021-11-01,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717406&cg_code=&act=view&nPage=23,South Korea,Korea DCA,343,390
 2021-11-02,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717414&cg_code=&act=view&nPage=23,South Korea,Korea DCA,347,NA
 2021-11-03,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717423&cg_code=&act=view&nPage=23,South Korea,Korea DCA,378,NA
 2021-11-04,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717431&cg_code=&act=view&nPage=23,South Korea,Korea DCA,365,NA
 2021-11-05,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717448&cg_code=&act=view&nPage=22,South Korea,Korea DCA,382,NA
 2021-11-06,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717458&cg_code=&act=view&nPage=22,South Korea,Korea DCA,411,NA
-2021-11-07,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717460&cg_code=&act=view&nPage=22,South Korea,Korea DCA,405,NA
+2021-11-07,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717460&cg_code=&act=view&nPage=22,South Korea,Korea DCA,405,450
 2021-11-08,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717462&cg_code=&act=view&nPage=22,South Korea,Korea DCA,409,361
 2021-11-09,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717479&cg_code=&act=view&nPage=21,South Korea,Korea DCA,425,388
 2021-11-10,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717492&cg_code=&act=view&nPage=21,South Korea,Korea DCA,460,508
@@ -628,11 +628,11 @@ Date,Source URL,Country,Source label,Hospitalizations with moderate to severe sy
 2021-12-14,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717931&cg_code=&act=view&nPage=9,South Korea,Korea DCA,906,756
 2021-12-15,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717944&cg_code=&act=view&nPage=8,South Korea,Korea DCA,964,831
 2021-12-16,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717952&cg_code=&act=view&nPage=8,South Korea,Korea DCA,989,796
-2021-12-17,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),971,NA
+2021-12-17,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717994&cg_code=&act=view&nPage=7,South Korea,Korea DCA,971,752
 2021-12-18,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717994&cg_code=&act=view&nPage=7,South Korea,Korea DCA,1016,740
 2021-12-19,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=717997&cg_code=&act=view&nPage=7,South Korea,Korea DCA,1025,713
 2021-12-20,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718003&cg_code=&act=view&nPage=7,South Korea,Korea DCA,997,581
-2021-12-21,https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0,South Korea,SNU ARIC (from Korea DCA),1022,NA
+2021-12-21,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718021&cg_code=&act=view&nPage=6,South Korea,Korea DCA,1022,622
 2021-12-22,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718021&cg_code=&act=view&nPage=6,South Korea,Korea DCA,1063,759
 2021-12-23,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718025&cg_code=&act=view&nPage=6,South Korea,Korea DCA,1083,683
 2021-12-24,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718045&cg_code=&act=view&nPage=6,South Korea,Korea DCA,1084,699
@@ -653,4 +653,3 @@ Date,Source URL,Country,Source label,Hospitalizations with moderate to severe sy
 2022-01-08,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718241&cg_code=&act=view&nPage=1,South Korea,Korea DCA,838,406
 2022-01-09,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718244&cg_code=&act=view&nPage=1,South Korea,Korea DCA,821,419
 2022-01-10,http://www.kdca.go.kr//board/board.es?mid=a20501000000&bid=0015&list_no=718247&cg_code=&act=view&nPage=1,South Korea,Korea DCA,786,372
-2022-01-11,http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=161&dataGubun=&ncvContSeq=&contSeq=&board_id=,South Korea,Korea DCA,780,350
