@@ -7,5 +7,6 @@ The [hospitalization.csv](hospitalization.csv) contains the following informatio
 * **Hospitalizations with moderate to severe symptoms**
   - Patients receiving isolated treatment through high flow therapy, respirator, ECMO (extracorporeal membrane oxygenation), and CRRT (continuous renal replacement therapy) (from 2020-03-28)
   - Stats sourced from [SNU ARIC COVID-19](https://sites.google.com/view/snuaric/data-service/covid-19/covid-19-data?authuser=0) for data before 2021-11-01.
+* Date refers to the reported day (00:00), so a data point of 2022-01-15 corresponds to admissions, patient status of 2022-01-14.
 
 The file will be updated weekly (semi daily).
