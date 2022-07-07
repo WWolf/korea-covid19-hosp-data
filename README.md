@@ -16,3 +16,7 @@ The [weekly_icu.csv](weekly_icu.csv) contains weekly information on
   - This is redundant statistics of the aggregate of daily new hospital admissions
 
 The file will be updated weekly (semi daily).
+
+The [testing.csv](testing.csv) contains testing information (continuation of now discontinued ARIC SNU project)
+* The official government report figures are revised daily up to one week
+* This is updated semi-weekly, so there will be small discrepancies of figures to the most up-to-date figure (1 week after the report) depending on the date
