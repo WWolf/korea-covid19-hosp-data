@@ -14,6 +14,7 @@ The [weekly_icu.csv](weekly_icu.csv) contains weekly information on
   - Above daily figures are the number of patients, whereas this figure is the new admissions
 * **Hospital admissions (weekly)**
   - This is redundant statistics of the aggregate of daily new hospital admissions
+* Note that the date is reported date, and there is 3 day difference (2022-08-30 report means 2022-08-21 to 2022-08-27 weekly period)
 
 The [testing.csv](testing.csv) contains testing information (continuation of now discontinued ARIC SNU project)
 * The official government report figures are revised daily up to one week
