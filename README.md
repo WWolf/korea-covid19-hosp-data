@@ -19,6 +19,10 @@ The [weekly_icu.csv](weekly_icu.csv) contains weekly information on
 The [testing.csv](testing.csv) contains testing information (continuation of now discontinued ARIC SNU project)
 * The official government report figures are revised daily up to one week
 * This is updated semi-weekly, so there will be small discrepancies of figures to the most up-to-date figure (1 week after the report) depending on the date
+* This will no longer be updated in this page for foreseeable future given potential discrepancy arising from antigen tests
 
+The [beds.csv](beds.csv) contains the hospitalization information based on severity level
+* The official government report figures are updated daily
+* The report also contains bed capacity, which is not included in the figure. Only filled bed counts are added
 
 The files will be updated weekly.
