@@ -1,6 +1,10 @@
 # korea-covid19-hosp-data
 
-Hospitalization data from official sources (daily report in Korean, [Sample page](https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=718247&cg_code=&act=view&nPage=1)). For most daily current stats, refer to the [English page](http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=161&dataGubun=&ncvContSeq=&contSeq=&board_id=)
+Hospitalization data from official sources:
+
+* Daily report in Korean, [Sample page](https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=718247&cg_code=&act=view&nPage=1)). Sunsetted on 2022-10-30.
+* From 2022-11-01, *weekly* Wednesday report of hospitalization stats contain the daily figures (1 week delay).
+* For most up-to-date daily stats without delay, refer to the [Stat page (Korean)](https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=)
 
 The [hospitalization.csv](hospitalization.csv) contains the following information:
 * **New Hospital admissions (daily)** (from 2021-11-01)
@@ -24,5 +28,6 @@ The [testing.csv](testing.csv) contains testing information (continuation of now
 The [beds.csv](beds.csv) contains the hospitalization information based on severity level
 * The official government report figures are updated daily
 * The report also contains bed capacity, which is not included in the figure. Only filled bed counts are added
+* From 2022-11-01, this stats is also published only weekly.
 
 The files will be updated weekly.
