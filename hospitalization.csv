@@ -951,8 +951,8 @@ Date,Source URL,Country,Source label,Hospitalizations with moderate to severe sy
 2022-11-03,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,290,209
 2022-11-04,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,304,221
 2022-11-05,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721093&cg_code=&act=view&nPage=1,South Korea,Korea DCA,314,171
-2022-11-06,,,,,
-2022-11-07,,,,,
+2022-11-06,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721132&cg_code=&act=view&nPage=2,South Korea,Korea DCA,346,143
+2022-11-07,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721132&cg_code=&act=view&nPage=2,South Korea,Korea DCA,365,122
 2022-11-08,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,360,235
 2022-11-09,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,336,226
 2022-11-10,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,323,240
@@ -960,3 +960,12 @@ Date,Source URL,Country,Source label,Hospitalizations with moderate to severe sy
 2022-11-12,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,371,262
 2022-11-13,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,396,196
 2022-11-14,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,413,185
+2022-11-15,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721234&cg_code=&act=view&nPage=1,South Korea,Korea DCA,412,263
+2022-11-16,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721234&cg_code=&act=view&nPage=1,South Korea,Korea DCA,411,243
+2022-11-17,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721234&cg_code=&act=view&nPage=1,South Korea,Korea DCA,380,208
+2022-11-18,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721234&cg_code=&act=view&nPage=1,South Korea,Korea DCA,365,201
+2022-11-19,https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=721234&cg_code=&act=view&nPage=1,South Korea,Korea DCA,419,196
+2022-11-20,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,451,169
+2022-11-21,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,465,132
+2022-11-22,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,461,232
+2022-11-23,https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=,South Korea,Korea DCA,477,201
