@@ -2,7 +2,7 @@
 
 Hospitalization data from official sources:
 
-* Daily report in Korean, [Sample page](https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=718247&cg_code=&act=view&nPage=1)). Sunsetted on 2022-10-30.
+* Daily report in Korean, [Sample page](https://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=718247&cg_code=&act=view&nPage=1). Sunsetted on 2022-10-30.
 * From 2022-11-01, *weekly* Wednesday report of hospitalization stats contain the daily figures (1 week delay).
 * For most up-to-date daily stats without delay, refer to the [Stat page (Korean)](https://ncov.kdca.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=11&ncvContSeq=&contSeq=&board_id=&gubun=)
 
